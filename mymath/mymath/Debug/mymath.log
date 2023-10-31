@@ -1,0 +1,15 @@
+﻿  pch.cpp
+  dllmain.cpp
+  mymath.cpp
+E:\BaiduNetdiskDownload\医疗AI\大作业\工作代码以及学习\Lua\初学\mymath\mymath\mymath.cpp(6,13): warning C4273: “shun::pi”: dll 链接不一致
+E:\BaiduNetdiskDownload\医疗AI\大作业\工作代码以及学习\Lua\初学\mymath\mymath\mymath.h(19,28): message : 参见“pi”的前一个定义
+E:\BaiduNetdiskDownload\医疗AI\大作业\工作代码以及学习\Lua\初学\mymath\mymath\mymath.cpp(6,19): warning C4305: “初始化”: 从“double”到“float”截断
+E:\BaiduNetdiskDownload\医疗AI\大作业\工作代码以及学习\Lua\初学\mymath\mymath\mymath.cpp(8,2): warning C4273: “shun::getMax”: dll 链接不一致
+E:\BaiduNetdiskDownload\医疗AI\大作业\工作代码以及学习\Lua\初学\mymath\mymath\mymath.h(20,26): message : 参见“getMax”的前一个定义
+E:\BaiduNetdiskDownload\医疗AI\大作业\工作代码以及学习\Lua\初学\mymath\mymath\mymath.cpp(12,2): warning C4273: “shun::Cmath::add”: dll 链接不一致
+E:\BaiduNetdiskDownload\医疗AI\大作业\工作代码以及学习\Lua\初学\mymath\mymath\mymath.h(17,7): message : 参见“add”的前一个定义
+E:\BaiduNetdiskDownload\医疗AI\大作业\工作代码以及学习\Lua\初学\mymath\mymath\mymath.cpp(16,2): warning C4273: “shun::add_Interface”: dll 链接不一致
+E:\BaiduNetdiskDownload\医疗AI\大作业\工作代码以及学习\Lua\初学\mymath\mymath\mymath.h(24,26): message : 参见“add_Interface”的前一个定义
+  正在生成代码...
+    正在创建库 E:\BaiduNetdiskDownload\医疗AI\大作业\工作代码以及学习\Lua\初学\mymath\Debug\mymath.lib 和对象 E:\BaiduNetdiskDownload\医疗AI\大作业\工作代码以及学习\Lua\初学\mymath\Debug\mymath.exp
+  mymath.vcxproj -> E:\BaiduNetdiskDownload\医疗AI\大作业\工作代码以及学习\Lua\初学\mymath\Debug\mymath.dll
