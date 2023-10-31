@@ -14,3 +14,4 @@ mymath文件夹
 
 ## 笔记
 《c++ primer》《设计模式》 等等一系列学习
+https://github.com/nanadongdongdong/Code/blob/main/CountCADDCADDimg/count1.png
